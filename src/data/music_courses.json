@@ -1,0 +1,108 @@
+{
+
+    
+"courses": [
+    {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "introduction-to-music-theory",
+        "description": "Learn the basics of music theory, including scales, chords, and notation.",
+        "price": 49.99,
+        "instructor": "Jane Doe",
+        "featured": true,
+        "image": "https://www.pexels.com/photo/photo-of-person-sitting-in-front-of-piano-1185212/"
+    },
+    {
+        "id": 2,
+        "title": "Guitar for Beginners",
+        "slug": "guitar-for-beginners",
+        "description": "A comprehensive course for those starting their guitar journey.",
+        "price": 39.99,
+        "instructor": "John Smith",
+        "featured": false,
+        "image": "https://www.pexels.com/photo/man-teaching-how-to-play-guitar-7447155/"
+    },
+    {
+        "id": 3,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Enhance your piano skills with advanced techniques and exercises.",
+        "price": 59.99,
+        "instructor": "Emily Johnson",
+        "featured": true,
+        "image": "https://www.pexels.com/photo/people-playing-piano-with-sheet-music-7322012/"
+    },
+    {
+        "id": 4,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Unlock your creativity and learn the art of songwriting.",
+        "price": 44.99,
+        "instructor": "Michael Brown",
+        "featured": false,
+        "image": "https://www.pexels.com/photo/printed-musical-note-page-164821/"
+    },
+    {
+        "id": 5,
+        "title": "Music Production 101",
+        "slug": "music-production-101",
+        "description": "An introduction to music production techniques using popular software.",
+        "price": 69.99,
+        "instructor": "Sarah Lee",
+        "featured": true,
+        "image": "https://www.pexels.com/photo/unknown-person-playing-guitar-2510428/"
+    },
+    {
+        "id": 6,
+        "title": "Vocal Techniques for All Levels",
+        "slug": "vocal-techniques",
+        "description": "Improve your singing voice with essential vocal techniques.",
+        "price": 34.99,
+        "instructor": "David Wilson",
+        "featured": false,
+        "image": "https://www.pexels.com/photo/silver-dynamic-microphone-on-black-microphone-stand-3783471/"
+    },
+    {
+        "id": 7,
+        "title": "The Art of Music Mixing",
+        "slug": "art-of-music-mixing",
+        "description": "Learn the principles of mixing music like a pro.",
+        "price": 79.99,
+        "instructor": "Laura Martinez",
+        "featured": true,
+        "image": "https://www.pexels.com/photo/person-holding-black-audio-mixer-9005440/"
+    },
+    {
+        "id": 8,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "A beginner's guide to drumming techniques and rhythms.",
+        "price": 39.99,
+        "instructor": "Chris Taylor",
+        "featured": false,
+        "image": "https://example.com/images/drumming-basics.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Exploring Music Genres",
+        "slug": "exploring-music-genres",
+        "description": "Dive into various music genres and their characteristics.",
+        "price": 29.99,
+        "instructor": "Patricia Thompson",
+        "featured": false,
+        "image": "https://www.pexels.com/photo/tilt-shift-photo-of-acoustic-drum-set-995301/"
+    },
+    {
+        "id": 10,
+        "title": "Music Business Fundamentals",
+        "slug": "music-business-fundamentals",
+        "description": "Gain insights into the music industry and how to succeed.",
+        "price": 54.99,
+        "instructor": "James Anderson",
+        "featured": true,
+        "image": "https://www.pexels.com/photo/man-holding-camera-and-woman-playing-violin-2510425/"
+    }
+]
+
+
+}
